@@ -112,7 +112,7 @@ String PAGE_form = R"=====(
     <h3>Ole's Einschlaflampe</h3>     
   </article>
   <section>
-    <p>Diese lampe soll dem Kind erm&ouml;glichen zu erkennen, ob es Zeit zum schlafen oder Zeit zum aufstehen ist.<br /><a href="#hinweise">Hier</a> gibt es weitere Hinweise.</p>  
+    <p>Diese Lampe soll dem Kind erm&ouml;glichen zu erkennen, ob es Zeit zum schlafen oder Zeit zum aufstehen ist.<br /><a href="#hinweise">Hier</a> gibt es weitere Hinweise.</p>  
   </section>
   <form id="oleslampe" method="post" autocomplete="off" name="oleslampe" action"/"> 
     <section>
